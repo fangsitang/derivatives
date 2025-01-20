@@ -1,8 +1,8 @@
-## Derivatives pricing and hedging 
+# Derivatives pricing and hedging 
 
 In this repo, you can find examples of model pricing for various types of derivatives. 
 
-# Overview of models and methods 👇
+## Overview of models and methods 👇
 
 ✔️ **Delta-Gamma Hedging**
 
