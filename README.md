@@ -1,10 +1,12 @@
-## Derivatives pricing and hedging
+## Derivatives pricing and hedging 
 
-Topics covered 👇 : 
+In this repo, you can find examples of model pricing for various types of derivatives. 
+
+# Overview of models and methods 👇
 
 ✔️ **Delta-Gamma Hedging**
 
-✔️**Pricing and simulation models**
+✔️ **Pricing & simulation models**
 
 - Black-Scholes
 - Skew-kurtosis Black-Scholes
@@ -17,6 +19,4 @@ Topics covered 👇 :
 - monte carlo simulations
 - numerical methods
 - analytical formula
-
-
 
