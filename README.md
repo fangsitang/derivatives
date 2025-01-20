@@ -2,24 +2,16 @@
 
 Topics covered 👇 : 
 
-<details><summary>✔️ Derivatives pricing </summary>
-  <br>
-Using monte carlo, numerial methods & analytical solutions.
-<br>
-A non exhaustive list of exotic options priced : 
-- barrier
-- swaps
-- asian
-</details>
+✔️ Derivatives pricing → Using monte carlo, numerial methods & analytical solutions.\
+A non exhaustive list of exotic options priced : barrier, swaps, asian, option on option.
 
-<details><summary>✔️ Pricing and simulation models </summary> 
-- Black-Scholes
-- Skew-kurtosis Black-Scholes
-- Binomial tree
-- Trinomial tree
-- Heston stochastic volatility
-- GARCH variations (GARCH, NGARCH, AGARCH)
-</details>
+✔️ Pricing and simulation models
+[x] Black-Scholes
+[x] Skew-kurtosis Black-Scholes
+[x] Binomial tree
+[x] Trinomial tree
+[x] Heston stochastic volatility
+[x] GARCH variations (GARCH, NGARCH, AGARCH)
 
 ✔️ Delta-Gamma Hedging
 
