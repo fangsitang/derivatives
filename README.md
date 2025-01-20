@@ -1,9 +1,13 @@
-# derivatives
+## Derivatives pricing and hedging
 
+<details><summary>✔️ Derivatives pricing</summary>
 
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
+[derivatives_pricing](
+* barrier
+* swaps
+* asian
+* standard
+* etc.)
 
 </details>
 
