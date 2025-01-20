@@ -1,13 +1,12 @@
 ## Derivatives pricing and hedging
 
 <details><summary>✔️ Derivatives pricing </summary>
+  
 Using monte carlo, numerial methods & analytical solutions. \
 A non exhaustive list of exotic options priced : 
-* barrier
-* swaps
-* asian
-* standard
-* etc.
+- barrier
+- swaps
+- asian
 </details>
 
 <details><summary>✔️ Pricing and simulation models </summary>
