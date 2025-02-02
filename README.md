@@ -1,6 +1,6 @@
 # Derivatives pricing and hedging 
 
-In this repo, you can find examples of model pricing for various types of derivatives. 
+Here, you can find applications of pricing models for various types of derivative and trading products. 
 
 ## Overview of models and methods 👇
 
