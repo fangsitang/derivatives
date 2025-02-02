@@ -1,22 +1,14 @@
 # Derivatives pricing and hedging 
 
-Here, you can find applications of pricing models for various types of derivative and trading products. 
+Pricing models leverage :
 
-## Overview of models and methods 👇
+* Analytical formulas, simulation methods or numerical methods.
+* Require the careful selection of parameters based on market data.
+  
+Here, you can find two applications of pricing models for any type of derivative or trading product. The PDFs files contain a brief overview of different pricing methods. 
 
-✔️ **Delta-Gamma Hedging**
+📄 [Black-Scholes, Binomial Tree & Trinomial Tree](options_pricing.pdf)
+📄 [GARCH, Heston & Monte Carlo](options_pricing.pdf)
 
-✔️ **Pricing & simulation models**
 
-- Black-Scholes
-- Skew-kurtosis Black-Scholes
-- Binomial tree
-- Trinomial tree
-- Heston stochastic volatility
-- GARCH variations
-
-✔️ **Pricing methods**
-- monte carlo simulations
-- numerical methods
-- analytical formula
 
