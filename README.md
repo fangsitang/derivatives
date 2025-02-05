@@ -1,4 +1,4 @@
-# Derivatives pricing and hedging 🧐
+# Derivatives pricing 🧐
 
 Pricing models leverage :
 
